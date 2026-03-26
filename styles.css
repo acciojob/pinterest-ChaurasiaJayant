@@ -1,23 +1,42 @@
-/*  your css code here. If applicable */
-.hero{
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
-.photo{
-	width:100%
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;          
+  padding: 20px;
+  gap: 20px;
 }
 
-img{
-	height:150px;
-	width:full;
+.photo {
+  width: 50%;
 }
-.text{
-	width:49%
+
+.photo img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;     
+	border-radius: 10px;
 }
-.buttonn{
-	padding:5px;
-	background-color:orange;
-	color:white;
-	border-radius:5px;
+
+.text {
+  width: 50%;
+}
+
+.text h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.text p {
+  margin-bottom: 20px;
+  color: gray;
+}
+
+.buttonn {
+  padding: 10px 20px;
+  background-color: #e60023;
+  color: white;
+  border-radius: 25px;
+  text-decoration: none;
+  display: inline-block;
 }
