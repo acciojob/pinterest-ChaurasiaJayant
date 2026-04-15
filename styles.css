@@ -2,13 +2,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;          
-  /* padding: 20px; */
+  height: 100vh;         
   gap: 20px;
-}
-
-.photo {
-  /* width: 50%; */
 }
 
 img {
