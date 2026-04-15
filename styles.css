@@ -3,12 +3,12 @@
   justify-content: center;
   align-items: center;
   height: 100vh;          
-  padding: 20px;
+  /* padding: 20px; */
   gap: 20px;
 }
 
 .photo {
-  width: 50%;
+  /* width: 50%; */
 }
 
 img {
@@ -21,11 +21,7 @@ img {
   width: 50%;
 }
 
-.text h1 {
-  margin-bottom: 10px;
-}
-
-.buttonn {
+a{
   padding: 10px 20px;
   background-color: #e60023;
   color: white;
