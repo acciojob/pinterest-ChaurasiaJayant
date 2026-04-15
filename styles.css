@@ -14,8 +14,7 @@
 img {
   width: 100%;
   height: auto;
-  object-fit: cover;     
-	/* border-radius: 10px; */
+  object-fit: cover;  
 }
 
 .text {
@@ -23,13 +22,7 @@ img {
 }
 
 .text h1 {
-  /* font-size: 32px; */
   margin-bottom: 10px;
-}
-
-.text p {
-  /* margin-bottom: 20px; */
-  /* color: gray; */
 }
 
 .buttonn {
