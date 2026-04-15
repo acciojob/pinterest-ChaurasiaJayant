@@ -11,7 +11,7 @@
   width: 50%;
 }
 
-.photo img {
+img {
   width: 100%;
   height: auto;
   object-fit: cover;     
